@@ -1,0 +1,12 @@
+//if, else if, else blocks statements
+let permanentAddress = false;
+let billingAddress = true;
+if(permanentAddress){
+    console.log("premanent address added");
+}
+else if(billingAddress){
+    console.log("billing address added");
+}
+else{
+    console.log("either one of the address sis mandatory");
+}
