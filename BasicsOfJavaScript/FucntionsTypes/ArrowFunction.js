@@ -15,5 +15,5 @@ let f = (a,b) => a*b;
         console.log(fu());
 
         //case 4
-         let funn = (hi => "hello"+hi;
+         let funn = hi => "hello"+hi;
          console.log(funn());
